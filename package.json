@@ -27,7 +27,7 @@
     "@material-ui/icons": "^4.11.2",
     "axios": "^0.21.0",
     "beedle": "^0.8.1",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "date-fns": "^2.16.1",
     "dotenv": "^8.2.0",
