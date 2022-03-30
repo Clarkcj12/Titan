@@ -1806,15 +1806,10 @@
   dependencies:
     "@types/googlemaps" "*"
 
-"@types/googlemaps@*":
-  version "3.40.2"
-  resolved "https://registry.yarnpkg.com/@types/googlemaps/-/googlemaps-3.40.2.tgz#282fc5383ffdb035e1698f846c941cad501f02cb"
-  integrity sha512-LYlp497JZ/AjsjmGQMHcKmqO/MkUSLeUtsY++CQwy3VN8rqeotMacxnCF3xoGd8LphNqDdgQX7PL6qG0Pmh0Hw==
-
-"@types/googlemaps@3.39.2":
-  version "3.39.2"
-  resolved "https://registry.yarnpkg.com/@types/googlemaps/-/googlemaps-3.39.2.tgz#a85721970305f7b6e50b1369aed53be35485d11a"
-  integrity sha512-eQNK23aCejjTF/HCzMObVPisnj6oBpWerhKpm849xW5JYocIHpnHnGYzWc9w076hIEpMt0bAxyPOaCoruYeGqg==
+"@types/googlemaps@*", "@types/googlemaps@3.43.3":
+  version "3.43.3"
+  resolved "https://registry.yarnpkg.com/@types/googlemaps/-/googlemaps-3.43.3.tgz#70cf962154a160fe78bcd69d6ccc296dd9175b1f"
+  integrity sha512-ZWNoz/O8MPEpiajvj7QiqCY8tTLFNqNZ/a+s+zTV58wFVNAvvqV4bdGfnsjTb5Cs4V6wEsLrX8XRhmnyYJ2Tdg==
 
 "@types/graceful-fs@^4.1.2":
   version "4.1.4"
