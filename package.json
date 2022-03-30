@@ -55,7 +55,7 @@
     "react-dnd": "^10.0.2",
     "react-dnd-html5-backend": "^10.0.2",
     "react-dom": "16.12.0",
-    "react-draft-wysiwyg": "^1.14.6",
+    "react-draft-wysiwyg": "^1.14.7",
     "react-form-builder2": "^0.6.2",
     "react-google-maps": "9.4.5",
     "react-router-dom": "5.1.2",
