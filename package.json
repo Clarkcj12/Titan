@@ -63,7 +63,7 @@
     "react-select": "^3.0.8",
     "react-signature-canvas": "^1.0.3",
     "react-star-rating": "^1.4.2",
-    "react-textarea-autosize": "^7.1.2",
+    "react-textarea-autosize": "^8.3.3",
     "reactstrap": "9.0.1",
     "styled-components": "^5.2.1",
     "universal-cookie": "^4.0.4",
