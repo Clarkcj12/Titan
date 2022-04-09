@@ -7344,11 +7344,6 @@ lodash.merge@^4.6.0, lodash.merge@^4.6.2:
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
   integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
 
-lodash.orderby@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/lodash.orderby/-/lodash.orderby-4.6.0.tgz#e697f04ce5d78522f54d9338b32b81a3393e4eb3"
-  integrity sha1-5pfwTOXXhSL1TZM4syuBozk+TrM=
-
 lodash.sortby@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/lodash.sortby/-/lodash.sortby-4.7.0.tgz#edd14c824e2cc9c1e0b0a1b42bb5210516a42438"
@@ -7755,11 +7750,6 @@ nan@^2.13.2:
   version "2.14.2"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.14.2.tgz#f5376400695168f4cc694ac9393d0c9585eeea19"
   integrity sha512-M2ufzIiINKCuDfBSAUr1vWQ+vuVcA9kqx8JJUsbQi6yf1uGRyb7HfpdfUr5qLXf3B/t8dPvcjhKMmlfnP47EzQ==
-
-nanoid@^2.1.0:
-  version "2.1.11"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-2.1.11.tgz#ec24b8a758d591561531b4176a01e3ab4f0f0280"
-  integrity sha512-s/snB+WGm6uwi0WjsZdaVcuf3KJXlfGl2LcxgwkEwJF0D/BWzVWAZW/XY4bFaiR7s0Jk3FPvlnepg1H1b1UwlA==
 
 nanoid@^3.3.1:
   version "3.3.2"
@@ -9165,14 +9155,12 @@ react-copy-to-clipboard@5.0.4:
     copy-to-clipboard "^3"
     prop-types "^15.5.8"
 
-react-data-table-component@^6.11.6:
-  version "6.11.6"
-  resolved "https://registry.yarnpkg.com/react-data-table-component/-/react-data-table-component-6.11.6.tgz#4859182afb6885de94cc04336dc9ca5b4dbbf3a5"
-  integrity sha512-TQv8udIZbMQNYIdoD2t8WTW81A18RH2erowE9Cka030NE6YOY6wX0E1bqeaCTN4+dQkmTOvwNdHCc5EDXuXewg==
+react-data-table-component@^7.4.7:
+  version "7.4.7"
+  resolved "https://registry.yarnpkg.com/react-data-table-component/-/react-data-table-component-7.4.7.tgz#18067a2ac1dcb01bf3a010c03ab1c975061c496c"
+  integrity sha512-S4iaArrcYvJcIdOBsdUeBgEDfLFghI/G5Oykr5ZbfrUA282JTeQAQtGwutsIs6TKfXQAwMVUs2R+bu3S8oZfWA==
   dependencies:
     deepmerge "^4.2.2"
-    lodash.orderby "^4.6.0"
-    shortid "^2.2.16"
 
 react-datepicker@^3.4.1:
   version "3.8.0"
@@ -10241,13 +10229,6 @@ shell-quote@^1.7.3:
   version "1.7.3"
   resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.3.tgz#aa40edac170445b9a431e17bb62c0b881b9c4123"
   integrity sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw==
-
-shortid@^2.2.16:
-  version "2.2.16"
-  resolved "https://registry.yarnpkg.com/shortid/-/shortid-2.2.16.tgz#b742b8f0cb96406fd391c76bfc18a67a57fe5608"
-  integrity sha512-Ugt+GIZqvGXCIItnsL+lvFJOiN7RYqlGy7QE41O3YC1xbNSeDGIRO7xg2JJXIAj1cAGnOeC1r7/T9pgrtQbv4g==
-  dependencies:
-    nanoid "^2.1.0"
 
 side-channel@^1.0.4:
   version "1.0.4"
