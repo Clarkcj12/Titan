@@ -46,7 +46,7 @@
     "postinstall-postinstall": "^2.1.0",
     "prop-types": "^15.8.1",
     "react": "16.14.0",
-    "react-bootstrap-slider": "^2.2.2",
+    "react-bootstrap-slider": "^3.0.0",
     "react-chartjs-2": "2.11.2",
     "react-copy-to-clipboard": "5.0.4",
     "react-data-table-component": "^7.4.7",
