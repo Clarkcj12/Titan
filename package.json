@@ -48,7 +48,7 @@
     "react": "16.14.0",
     "react-bootstrap-slider": "^2.2.2",
     "react-chartjs-2": "2.11.2",
-    "react-copy-to-clipboard": "5.0.4",
+    "react-copy-to-clipboard": "5.1.0",
     "react-data-table-component": "^7.4.7",
     "react-datepicker": "^4.7.0",
     "react-datetime": "3.1.1",
