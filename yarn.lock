@@ -3285,6 +3285,11 @@ bootstrap-slider@^10.6.1:
   resolved "https://registry.yarnpkg.com/bootstrap-slider/-/bootstrap-slider-10.6.2.tgz#7341f468c012bdaa6a1d8625d989fdeb8ed7dd38"
   integrity sha512-8JTPZB9QVOdrGzYF3YgC3YW6ssfPeBvBwZnXffiZ7YH/zz1D0EKlZvmQsm/w3N0XjVNYQEoQ0ax+jHrErV4K1Q==
 
+bootstrap-slider@^11.0.2:
+  version "11.0.2"
+  resolved "https://registry.yarnpkg.com/bootstrap-slider/-/bootstrap-slider-11.0.2.tgz#4b167c165f322339cc66f0c7166b5a39e289e251"
+  integrity sha512-CdwS+Z6X79OkLes9RfDgPB9UIY/+81wTkm6ktdSB6hdyiRbjJLFQIjZdnEr55tDyXZfgC7U6yeSXkNN9ZdGqjA==
+
 bowser@^1.7.3:
   version "1.9.4"
   resolved "https://registry.yarnpkg.com/bowser/-/bowser-1.9.4.tgz#890c58a2813a9d3243704334fa81b96a5c150c9a"
@@ -9129,12 +9134,19 @@ react-app-polyfill@^3.0.0:
     regenerator-runtime "^0.13.9"
     whatwg-fetch "^3.6.2"
 
-react-bootstrap-slider@^2.2.2, react-bootstrap-slider@^2.2.3:
+react-bootstrap-slider@^2.2.3:
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/react-bootstrap-slider/-/react-bootstrap-slider-2.2.3.tgz#03538c4df09cfaf41f62d1a9ae6e38504beed9af"
   integrity sha512-HsBhP9ZPktLD7ZtbmsAkx/oDzK5HLxSTQ3aSaX45RxdVh6P9kJ4nEwtIhBbcnLdq/Og3vOkQsGQHIOKsDUWq/w==
   dependencies:
     bootstrap-slider "^10.6.1"
+
+react-bootstrap-slider@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/react-bootstrap-slider/-/react-bootstrap-slider-3.0.0.tgz#f47bc448ad1c6095e9cd59278150291204c60dbb"
+  integrity sha512-Sl5g/J1KW/byU+4Io/W/CUNxxWZahNs8uQcAgE+27XQJ4njfSFZQ3NYY55vy1aFeoU8Kkmnrq+CG5gix6L8Kvw==
+  dependencies:
+    bootstrap-slider "^11.0.2"
 
 react-chartjs-2@2.11.2:
   version "2.11.2"
