@@ -53,7 +53,7 @@
     "react-datepicker": "^4.7.0",
     "react-datetime": "3.1.1",
     "react-dnd": "^16.0.0",
-    "react-dnd-html5-backend": "^16.0.0",
+    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "16.14.0",
     "react-draft-wysiwyg": "^1.14.7",
     "react-form-builder2": "^0.10.6",
