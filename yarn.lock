@@ -9171,10 +9171,10 @@ react-copy-to-clipboard@5.1.0:
     copy-to-clipboard "^3.3.1"
     prop-types "^15.8.1"
 
-react-data-table-component@^7.5.1:
-  version "7.5.1"
-  resolved "https://registry.yarnpkg.com/react-data-table-component/-/react-data-table-component-7.5.1.tgz#f2c136fc97f01246f475ca1d36236e56eee34d39"
-  integrity sha512-VMMRjGohqdtrKT+eZU8I39IWvd7ZfqYKkACd4HZeuWzKsJCNYxJuPThdO5OBW6Wiw9Xwn8wqzD5FJhsJWttNDw==
+react-data-table-component@^7.5.2:
+  version "7.5.2"
+  resolved "https://registry.yarnpkg.com/react-data-table-component/-/react-data-table-component-7.5.2.tgz#42d0af2a923e05887baadf8f4718bbb133c6db83"
+  integrity sha512-sOmeEEZiORJcnzf8fwcwA5+JbhIChjf+tQV/dLYvlhU8UT8rJZ33aBSOJNjNYq/5+t3lj/xCJXtSa2kgoZTDVQ==
   dependencies:
     deepmerge "^4.2.2"
 
