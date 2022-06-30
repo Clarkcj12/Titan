@@ -5281,6 +5281,11 @@ file-loader@^6.2.0:
     loader-utils "^2.0.0"
     schema-utils "^3.0.0"
 
+file-saver@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/file-saver/-/file-saver-2.0.5.tgz#d61cfe2ce059f414d899e9dd6d4107ee25670c38"
+  integrity sha512-P9bmyZ3h/PRG+Nzga+rbdI4OEpNDzAVyy74uVO9ATgzLK6VtAsYybF/+TOCvrc0MO793d6+42lLyZTw7/ArVzA==
+
 filelist@^1.0.1:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/filelist/-/filelist-1.0.3.tgz#448607750376484932f67ef1b9ff07386b036c83"
@@ -9318,10 +9323,10 @@ react-fast-compare@^3.0.1:
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-3.2.0.tgz#641a9da81b6a6320f270e89724fb45a0b39e43bb"
   integrity sha512-rtGImPZ0YyLrscKI9xTpV8psd6I8VAtjKCzQDlzyDvqJA8XOW78TXYQwNRNd8g8JZnDu8q9Fu/1v4HPAVwVdHA==
 
-react-form-builder2@^0.11.3:
-  version "0.11.3"
-  resolved "https://registry.yarnpkg.com/react-form-builder2/-/react-form-builder2-0.11.3.tgz#f48008a5dbd75ec6df96e7cbf29ad6f586e7b8e2"
-  integrity sha512-mMgozhmAJ6FNZPwMhRJ8LORwOZwcUKIUOc1n2l1xAxY15hS7ix1p1G4xJC6IwgJ7z4egHppTDj6cIebsMuos8g==
+react-form-builder2@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/react-form-builder2/-/react-form-builder2-0.12.0.tgz#2212608264f0dd79974a1e8f72e603b57efa622d"
+  integrity sha512-ZsCjiEFhhiey7PqWzdU9eFnK3uf4u+chQ2ty9qAO3x3O7wi2aYXRkZBgNb/JGvTgyLsg7dAz5ExGR9oHuFnbkA==
   dependencies:
     beedle "^0.8.1"
     classnames "^2.2.6"
@@ -9330,6 +9335,7 @@ react-form-builder2@^0.11.3:
     draftjs-to-html "^0.8.4"
     es6-promise "^4.2.8"
     fbemitter "^3.0.0"
+    file-saver "^2.0.5"
     immutability-helper "^3.1.1"
     isomorphic-fetch "^3.0.0"
     prop-types "^15.7.2"
