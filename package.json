@@ -67,7 +67,7 @@
     "reactstrap": "9.1.4",
     "styled-components": "^5.3.5",
     "universal-cookie": "^4.0.4",
-    "xss": "^1.0.13"
+    "xss": "^1.0.14"
   },
   "devDependencies": {
     "@types/googlemaps": "3.43.3",
