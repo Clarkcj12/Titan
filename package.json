@@ -42,7 +42,7 @@
     "moment": "^2.29.4",
     "node-sass": "8.0.0",
     "nouislider": "15.6.1",
-    "patch-package": "^6.4.7",
+    "patch-package": "^6.5.1",
     "postinstall-postinstall": "^2.1.0",
     "prop-types": "^15.8.1",
     "react": "16.14.0",
