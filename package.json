@@ -75,5 +75,10 @@
     "@types/react": "16.14.26",
     "eslint-plugin-flowtype": "3.13.0",
     "typescript": "5.0.3"
-  }
+  },
+  "browser": {
+  "fs": false,
+  "path": false,
+  "os": false
+}
 }
