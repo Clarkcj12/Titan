@@ -9536,10 +9536,10 @@ react@^0.14.2:
     envify "^3.0.0"
     fbjs "^0.6.1"
 
-reactstrap@9.1.8:
-  version "9.1.8"
-  resolved "https://registry.yarnpkg.com/reactstrap/-/reactstrap-9.1.8.tgz#ac0002798fff2fd809dd21596d5f4ff68195fc90"
-  integrity sha512-H4O7dARpt3axkJxcjY5Bqpnfni/No4+DekYuXKiiVtFkMOmLhDXl32pjDB64Mr+Jtmtp+Hcj+TSg7II5Q6fS5g==
+reactstrap@9.1.10:
+  version "9.1.10"
+  resolved "https://registry.yarnpkg.com/reactstrap/-/reactstrap-9.1.10.tgz#3a542bd32770493a1ab64b7d70088e92fd47a127"
+  integrity sha512-VMDiQNV8hKug1GFOHEymYUYxDnueYl44F+wREABuYy2RgvzDq7OL7T/T8OpUz6JAA+f9LeeHohXxFbpb+a/VmA==
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@popperjs/core" "^2.6.0"
