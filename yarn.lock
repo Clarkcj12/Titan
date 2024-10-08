@@ -9864,10 +9864,10 @@ react-fast-compare@^3.0.1:
   resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-3.2.0.tgz#641a9da81b6a6320f270e89724fb45a0b39e43bb"
   integrity sha512-rtGImPZ0YyLrscKI9xTpV8psd6I8VAtjKCzQDlzyDvqJA8XOW78TXYQwNRNd8g8JZnDu8q9Fu/1v4HPAVwVdHA==
 
-react-form-builder2@^0.15.4:
-  version "0.15.4"
-  resolved "https://registry.yarnpkg.com/react-form-builder2/-/react-form-builder2-0.15.4.tgz#87eb7af82c170b0a51f5eba76f4b81d339d68092"
-  integrity sha512-gbvfy/V92D9e3bO0E3vBbidqutueOKcuQ+2bPaCW5Nzzaa5hlzTutW/nhkYJ8MzreXSydFRmM/kVSwm7dEpejw==
+react-form-builder2@^0.18.1:
+  version "0.18.1"
+  resolved "https://registry.yarnpkg.com/react-form-builder2/-/react-form-builder2-0.18.1.tgz#a78bdb9a6c15e6d96a93c4889aaaa7771d86f26d"
+  integrity sha512-DCXWxF4IKDQsf9Sj4ho0SFVcJVrbF3KxlWRpitQ6jZevBc073rMVdbkInaMyN35u9P9E0nlPY3XqNJAr75bVug==
   dependencies:
     beedle "^0.8.1"
     classnames "^2.2.6"
